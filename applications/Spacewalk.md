@@ -33,7 +33,7 @@ Our bridge differs from XCLAIM in some details as follows:
 
 **Architecture**
 
-![Stellar Bridge Web3 Grant(3).png](Web3%20grant%20application%20bd1371c9221349918fd6622619a24c26/Stellar_Bridge_Web3_Grant(3).png)
+![Stellar Bridge Web3 Grant(3)](https://user-images.githubusercontent.com/52105313/146759286-01810328-a383-4306-9ad2-61515913b7fb.png)
 
 The architecture of the bridge consists of the following components:
 
