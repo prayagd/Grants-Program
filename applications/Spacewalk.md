@@ -177,7 +177,7 @@ A detailed bridge concept is currently being researched (described in this grant
 | 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can employ the bridge pallet and the Spacewalk protocol to build a working bridge. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 1. | Phase 3 bridge protocol specification | We will define phase 2 of the Spacewalk protocol. In this phase we take the assumption that there are (a) multiple bridge nodes – but the set of nodes is fixed (b) one bridge account and (c) multiple nodes of the Substrate chain – but this set is fixed. |  
+| 1. | Phase 3 bridge protocol specification | We will define phase 3 of the Spacewalk protocol. In this phase we take the assumption that there are (a) multiple bridge nodes – but the set of nodes is fixed (b) one bridge account and (c) multiple nodes of the Substrate chain – but this set is fixed. |  
 | 2. | Stellar oracle with consensus | The off-chain worker of the bridge pallet regularly queries a Stellar node to detect incoming deposits. The bridge nodes will find consensus about the state of the Stellar through voting. |  
 
 
